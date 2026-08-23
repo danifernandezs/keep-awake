@@ -1,0 +1,12 @@
+# keep·awake
+
+> A free, open-source, single-page web tool that keeps your computer awake and prevents screen sleep or lock. No ads, no accounts, no cookies, no tracking. One open browser tab is all it takes.
+
+The page requests a Screen Wake Lock from the browser and, as a fallback, plays a silent audio loop generated in memory, which keeps the OS from sleeping even when the tab is in the background. It cannot move your mouse cursor: no website can.
+
+- URL: https://keepawake.dev/
+- Source: https://github.com/danifernandezs/keep-awake
+- License: CC BY-SA 4.0
+- Cost: free
+- Tech: one static HTML file, zero dependencies, zero external requests
+- Languages: English
